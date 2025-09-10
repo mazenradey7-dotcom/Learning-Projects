@@ -11,4 +11,4 @@ This course focused on developing personal and professional communication skills
 - PDF summary of effective communication strategies.  
 
 *Certificate:*  
-[View Certificate]https://programs.edraak.org/login/?next=/learn/course/comm-vt1_2018/not_enrolled&origin=programs.edraak.org()
+[View Certificate](https://programs.edraak.org/learn/course/comm-vt1_2018/certificate/)
